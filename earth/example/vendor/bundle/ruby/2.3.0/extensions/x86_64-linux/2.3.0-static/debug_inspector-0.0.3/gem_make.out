@@ -1,0 +1,19 @@
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+/home/vagrant/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170708-19624-7wq4ne.rb extconf.rb
+creating Makefile
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" clean
+make: 警告: ファイル `Makefile' の修正時刻が 0.058 秒分未来の時刻です
+make: 警告:  時刻のずれを検出. 不完全なビルド結果になるかもしれません.
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR="
+make: 警告: ファイル `Makefile' の修正時刻が 0.038 秒分未来の時刻です
+compiling debug_inspector.c
+linking shared-object debug_inspector.so
+make: 警告:  時刻のずれを検出. 不完全なビルド結果になるかもしれません.
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/debug_inspector-0.0.3/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.so ./.gem.20170708-19624-6j9pr4

@@ -1,0 +1,16 @@
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+/home/vagrant/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170708-19624-1lj7qqo.rb extconf.rb
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** ターゲット `clean' を make するルールがありません.  中止.
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.

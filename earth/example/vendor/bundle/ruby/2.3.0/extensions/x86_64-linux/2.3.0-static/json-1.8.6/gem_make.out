@@ -1,0 +1,13 @@
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+/home/vagrant/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170708-19624-1wx93fe.rb extconf.rb
+creating Makefile
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: `all' に対して行うべき事はありません.
+
+current directory: /earth/example/vendor/bundle/ruby/2.3.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
